@@ -1,6 +1,6 @@
-**Name**: Siva Mythili Gonuguntla
+**Name**: *Siva Mythili Gonuguntla*
 
-UTA ID: 1002204736 Email: sxg4738@mavs.uta.edu
+**UTA ID**: 1002204736 Email: sxg4738@mavs.uta.edu
 
 Department: Physics
 
